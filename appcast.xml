@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <item>
+      <title>Texgear 0.2.0</title>
+      <pubDate>Tue, 03 Nov 2026 02:30:53 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/max1874/texgear/releases/download/v0.2.0/Texgear-0.2.0.zip" length="4971219" type="application/octet-stream" sparkle:edSignature="jp0UlpwvyRXPv1Ubg5GXVOKzZ3dstoHFiLLVJeajHlel2f8XX4+qaKtt1PZ+w5pXN8efnRJg4Ki3noo2lStwCQ==" />
+    </item>
+    <title>Texgear</title>
+    <link>https://github.com/max1874/texgear</link>
+    <description>Texgear for Mac updates</description>
+  </channel>
+</rss>
