@@ -2,6 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Texgear 0.3.3</title>
+      <pubDate>Sun, 08 Nov 2026 13:30:47 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/max1874/texgear/releases/download/v0.3.3/Texgear-0.3.3.zip" length="4341857" type="application/octet-stream" sparkle:edSignature="5rvRCv0OAKqN4CuGcYWb/94i/kmX8bJCD7+mh/Y1trbYyyon5GojixALj5ygBQRttSZmXY5pERGccsOOkR2+Aw==" />
+    </item>
+    <item>
       <title>Texgear 0.3.2</title>
       <pubDate>Thu, 05 Nov 2026 06:50:44 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
